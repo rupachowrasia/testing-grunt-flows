@@ -1,0 +1,5 @@
+node_modules
+bower_components
+builds/development/img/*
+builds/development/css/*
+builds/development/js/*

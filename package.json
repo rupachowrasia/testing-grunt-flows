@@ -1,0 +1,25 @@
+{
+  "name": "testing-grunt-flows",
+  "version": "1.0.0",
+  "description": "A sample app to test gruntjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupachowrasia/testing-grunt-flows.git"
+  },
+  "author": "Rupa Chowrasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupachowrasia/testing-grunt-flows/issues"
+  },
+  "homepage": "https://github.com/rupachowrasia/testing-grunt-flows#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.2",
+    "grunt-wiredep": "^3.0.1",
+    "node-sass": "^4.11.0"
+  }
+}
